@@ -21,6 +21,7 @@ public class TestLogs {
 		PropertyConfigurator.configure("C:/Users/kia.heydari/eclipse-workspace/Log4j1/src/test/resources/properties/log4j.properties");
 		log.info("Logger started ......");
 		log.error("here is an error occured!!");
+		log.info("this is the test for jenkins");
 		
 		
 		
